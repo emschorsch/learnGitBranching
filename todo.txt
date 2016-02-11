@@ -13,6 +13,8 @@ Medium things:
 [ ] make helper bar clickable with goal vis floating
 [ ] make show solution easier
 
+other random things
+
 
 Argument things:
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
